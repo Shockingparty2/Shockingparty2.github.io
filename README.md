@@ -51,7 +51,7 @@ body {
 <body>
 
 <div class="sidenav">
-  <a href="page2">Link</a>
+  <a href="https://shockingparty2.github.io/page2">Link</a>
   <a href="#">Link</a>
   <a href="#">Link</a>
 </div>
