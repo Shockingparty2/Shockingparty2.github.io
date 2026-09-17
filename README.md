@@ -57,8 +57,8 @@ body {
 </div>
 
 <div class="content">
-  <h2>CSS Template</h2>
-  <p>A full-height, fixed sidenav and content.</p>
+  <h2>CSS, html, java coding page for next week </h2>
+  <p>A side nav 1 link works, made my own web.</p>
 </div>
 
 </body>
