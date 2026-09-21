@@ -59,7 +59,9 @@ body {
 
 <div class="content">
   <h2></h2>
-  <p>A side nav 1 link works, made my own web.</p>
+  <p><b><mark>WELCOME to this first page of the ESP information general stuffs okay?</mark> </b>
+  <br><br> This website will give you a general idea on the ESP and some tips which helped me to get through the year myself </p>
+  <img src="img_chania.jpg" alt="Flowers in Chania">
 </div>
 
 </body>
