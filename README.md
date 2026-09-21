@@ -51,13 +51,13 @@ body {
 <body>
 
 <div class="sidenav">
-  <a href="https://shockingparty2.github.io/page2">page2</a>
-  <a href="#">Link</a>
+  <a href="https://shockingparty2.github.io/page2">page:2</a>
+  <a href="#">page:3</a>
   <a href="#">Link</a>
 </div>
 
 <div class="content">
-  <h2>CSS, html, java coding page for next week </h2>
+  <h2></h2>
   <p>A side nav 1 link works, made my own web.</p>
 </div>
 
