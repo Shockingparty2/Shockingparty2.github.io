@@ -52,7 +52,7 @@ body {
 
 <div class="sidenav">
   <a href="https://shockingparty2.github.io">Main Page</a>
-  <a href="https://shockingparty2.github.io/page2">ESP task 3</a>
+  <a href="https://shockingparty2.github.io/page2">ESP task 1</a>
   <a href="https://shockingparty2.github.io/page3">ESP task 2</a>
   <a href="https://shockingparty2.github.io/page4">ESP task 3</a> 
 </div>
@@ -60,7 +60,7 @@ body {
 <div class="content">
   <h2>content on ESP tips</h2>
 <p>
-  this page will give you tips which I personally came up with for the ESP, thank me now.
+  this page will give you tips which I personally came up with for the ESP task 2, thank me now.
   <hr>
   
 </p>  
