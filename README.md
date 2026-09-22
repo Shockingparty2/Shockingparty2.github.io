@@ -63,6 +63,17 @@ body {
 }
 
 .contact h2 {
+<style>
+.contact {
+  background-color: #ffffff;
+  padding: 25px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin-top: 30px;
+  border: 2px solid #1264d6;
+}
+
+.contact h2 {
   color: #1264d6;
 }
 
