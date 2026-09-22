@@ -53,6 +53,38 @@ body {
   height: auto;
 }
 
+<style>
+.contact {
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin-top: 30px;
+}
+
+.contact h2 {
+  color: #1264d6;
+}
+
+.contact input,
+.contact textarea {
+  padding: 8px;
+  margin: 5px 0 15px;
+  width: 100%;
+  max-width: 400px;
+  box-sizing: border-box;
+}
+
+.contact button {
+  background: #1264d6;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+</style>
+
 </style>
 </head>
 <body>
@@ -87,6 +119,8 @@ body {
   </p>
 
   <!-- CONTACT FORM -->
+<div class="contact">
+
   <h2>Further Information</h2>
 
   <form onsubmit="return checkForm()">
@@ -129,5 +163,3 @@ body {
 
 </div>
 
-</body>
-</html>
