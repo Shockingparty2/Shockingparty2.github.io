@@ -96,7 +96,6 @@ body {
 }
 </style>
 
-</style>
 </head>
 <body>
 
