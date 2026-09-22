@@ -82,4 +82,6 @@ III: for task 2, fix main errors and bugs then move onto improving the code perf
 IV: <b>Don't waste time if you get stuck, </b> move onto the next task if you cannot figure out the issue after <u>5-10mins</u>, return back to this problem if you have time remaining at the end
 <br><br>
 V: <mark>don't stress</mark>, resits are available next year which most people choose to do anyways ¯\_(ツ)_/¯
+  <br><br>
+  terminology: ESP stands for Employer Set Project <small>not set by a genuine employer,circumstances usually chosen from a real company and real scenario howerver.</small>
 </p>  
