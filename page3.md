@@ -88,9 +88,7 @@ V: <mark>don't stress</mark>, resits are available next year which most people c
   terminology: ESP stands for Employer Set Project <small>not set by a genuine employer,circumstances usually chosen from a real company and real scenario howerver.</small>
 </p>  
 <img
-    src="<img
-    src="https://assets.nolimits.ukri.org/chelmsford_college_logo_a9a6927a9b.png"
-    alt="help assist picture"
-    class="picture">"
+    src="https://st5.depositphotos.com/22295624/66177/i/450/depositphotos_661772972-stock-photo-help-support-advice-guidance-words.jpg"
     alt="help assist photo"
     class="picture">
+
