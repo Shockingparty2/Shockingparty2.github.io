@@ -95,13 +95,6 @@ body {
   <a href="https://shockingparty2.github.io/page3">ESP task tips</a>> 
 </div>
 
-<div class="content">
-  <img 
-    src="https://assets.nolimits.ukri.org/chelmsford_college_logo_a9a6927a9b.png" 
-    alt="Chelmsford College logo"
-    class="logo">
-
-
 
 <div class="content">
 
