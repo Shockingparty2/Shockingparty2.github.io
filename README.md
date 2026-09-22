@@ -123,16 +123,16 @@ body {
     <br> 
     T Levels are a 2-year qualification that you can do after GCSEs as an alternative to A levels, other post-16 courses or an apprenticeship. They have been designed with leading businesses and employers to give you the knowledge and skills you need. You’ll spend 80% of your time in the classroom and 20% on a 45-day placement with an employer to give you the skills and knowledge companies look for.
     <br><br>
-    Students will develop an understanding of:
-How digital technologies impact business<br>
-The ethical and moral implications of digital technology<br>
-Using data in software designUsing digital technologies to analyse and solve problems<br>
-Emerging technical trends, such as Internet of Things (IoT), Artificial Intelligence (AI), Augmented Reality (AR), Blockchain, 3D printingLegal and regulatory obligations relating to digital technologies<br>
-The privacy and confidentiality of personal data<br>
-The technical, physical and human aspects of internet security<br>
-Planning digital projectsTesting software, hardware and data<br>
-Digital tools for project management and collaboration<br>
-and many more general purpose and useful skills.
+<b>tudents will develop an understanding of:<br>
+  How digital technologies impact business<br>
+  The ethical and moral implications of digital technology<br>
+  Using data in software designUsing digital technologies to analyse and solve problems<br><br>
+  Emerging technical trends, such as Internet of Things (IoT), Artificial Intelligence (AI), Augmented Reality (AR), Blockchain, 3D printingLegal and regulatory obligations relating to digital technologies<br>
+  The privacy and confidentiality of personal data<br>
+  The technical, physical and human aspects of internet security<br><br>
+  Planning digital projectsTesting software, hardware and data<br>
+  Digital tools for project management and collaboration<br>
+  and many more general purpose and useful skills.
   </p>
 
   <!-- CONTACT FORM -->
