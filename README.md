@@ -12,6 +12,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(144, 238, 144, 0.3);
 }
 
 /* Style the side navigation */
@@ -67,7 +68,7 @@ body {
   <img 
     src="https://assets.nolimits.ukri.org/chelmsford_college_logo_a9a6927a9b.png" 
     alt="Chelmsford College logo"
-    class="logo"
+    class="logo">
 
 
   <h2></h2>
