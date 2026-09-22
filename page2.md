@@ -73,7 +73,7 @@ ESP <mark>task 2</mark> is the <u>debugging and code fixing section of the test<
 ESP <mark>task 4</mark> is the <u>coding section</u> of this project, during which you are given a section of code and told to <b>add specific functions into the code</b>. <br>
 in the second section of task 4, you are required to make a <i>rational</i> explaining your code and how you coded it, <u>giving reasons as to why you chose to do it a specific way</u>, <b>but more importantly what you would have done differently after reviewing your work.</b>
 
-</p>
+</p></p>
   
 
   
