@@ -60,7 +60,7 @@ body {
   <h2></h2>
   <p><b><mark>WELCOME to this first page of the ESP information general stuffs okay?</mark> </b>
   <br><br> This website will give you a general idea on the ESP and some tips which helped me to get through the year myself </p>
-  <img src="img_chania.jpg" alt="Flowers in Chania">
+  <img src="https://assets.nolimits.ukri.org/chelmsford_college_logo_a9a6927a9b.png" alt="chelmsford college logo">
 </div>
 
 </body>
