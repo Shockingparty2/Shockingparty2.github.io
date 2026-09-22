@@ -63,6 +63,10 @@ body {
 </div>
 
 <div class="content">
+  <img 
+    src="https://assets.nolimits.ukri.org/chelmsford_college_logo_a9a6927a9b.png" 
+    alt="Chelmsford College logo"
+    class="logo">
 <html>
 <head>ESP</head>
 <body>
