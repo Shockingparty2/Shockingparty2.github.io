@@ -64,6 +64,11 @@ body {
 </div>
 
 <div class="content">
+  <img 
+    src="https://assets.nolimits.ukri.org/chelmsford_college_logo_a9a6927a9b.png" 
+    alt="Chelmsford College logo"
+    class="logo">
+  
   <h2>content on ESP tips</h2>
 <p>
   this page will give you tips which I personally came up with for the ESP task 2, thank me now.
