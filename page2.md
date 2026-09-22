@@ -84,6 +84,9 @@ in the second section of task 4, you are required to make a <i>rational</i> expl
 
 </p></p>
   
-
+<img
+    src="https://d1e4pidl3fu268.cloudfront.net/86aff92a-9747-41b7-8249-a1578a761305/SurvivalGuide.crop_476x357_37,0.preview.png"
+    alt="survive ESP"
+    class="photo">
   
 </body>
