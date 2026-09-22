@@ -75,8 +75,10 @@ body {
   <hr>
 I: <u>utilise</u> AI in order to create similar practise papers and mark your work on them in order to revise; <small>do not use AI in the ESP test itself.</small>  
 <br>
-II: on task 1a, ensure that you <b>don't use a staff member who is 'expected absent'</b> of any sort during their time off 
+II: on task 1a, ensure that you <b>don't use a staff member who is 'expected absent'</b> of any sort during their time off; read full booklet before assigning tasks to prevent missing key information
 <br>
-III: 
-  
+III: for task 2, fix main errors and bugs then move onto improving the code performance without changing the main functions <small>if you have time remaining</small>
+<br>
+IV: <b>Don't waste time if you get stuck, </b> move onto the next task if you cannot figure out the issue after <u>5-10mins</u>, return back to this problem if you have time remaining at the end
+<br>
 </p>  
