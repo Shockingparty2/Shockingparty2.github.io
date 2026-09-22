@@ -126,10 +126,11 @@ body {
 <b>tudents will develop an understanding of:<br>
   How digital technologies impact business<br>
   The ethical and moral implications of digital technology<br>
-  Using data in software designUsing digital technologies to analyse and solve problems<br><br>
+  Using data in software design <br><br>
+  Using digital technologies to analyse and solve problems<br>
   Emerging technical trends, such as Internet of Things (IoT), Artificial Intelligence (AI), Augmented Reality (AR), Blockchain, 3D printingLegal and regulatory obligations relating to digital technologies<br>
-  The privacy and confidentiality of personal data<br>
-  The technical, physical and human aspects of internet security<br><br>
+  The privacy and confidentiality of personal data<br><br>
+  The technical, physical and human aspects of internet security<br>
   Planning digital projectsTesting software, hardware and data<br>
   Digital tools for project management and collaboration<br>
   and many more general purpose and useful skills.
