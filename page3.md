@@ -73,5 +73,5 @@ body {
 <p>
   this page will give you tips which I personally came up with for the ESP task 2, thank me now.
   <hr>
-  
+I: <u>utilise</u> AI in order to create similar practise papers and mark your work on them in order to revise; <small>do not use AI in the ESP test itself.</small>  
 </p>  
