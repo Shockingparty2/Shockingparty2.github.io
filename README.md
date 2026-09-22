@@ -73,6 +73,25 @@ body {
   <h2></h2>
   <p><b><mark>WELCOME to this first page of the ESP information general stuffs okay?</mark> </b>
   <br><br> This website will give you a general idea on the ESP and some tips which helped me to get through the year myself </p>
+
+<script>
+function checkForm() {
+  let n = document.getElementById("name").value.trim();
+  let e = document.getElementById("email").value.trim();
+  let m = document.getElementById("msg").value.trim();
+
+  if (!n || !e || !m) {
+    document.getElementById("error").textContent =
+      "Please fill in all fields.";
+    return false;
+  }
+
+  document.getElementById("error").innerHTML =
+    'This form does not work. However, you can contact the college <a href="https://www.chelmsford.ac.uk/" target="_blank">here</a>.';
+
+  return false;
+}
+</script>
 </div>
 
 </body>
