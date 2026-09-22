@@ -12,6 +12,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(144, 238, 144, 0.3);
 }
 
 /* Style the side navigation */
