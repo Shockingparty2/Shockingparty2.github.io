@@ -65,9 +65,14 @@ body {
     <u>The ESP task involves <high>5</high> sections</u></p>
   <p>Here are the different sections and how they work</p>
 <hr>
-  <p>ESP <mark>task 1</mark> is the <u>planning stage of the ESP</u>, in which you are given a team and a timeframe to complete a project of different tasks. <br><br> Utilising the employees; assign the tasks to the employees while taking advantage of their strengths to ensure a <b>good quality end result.</b> <br><br> After completing the task (within the timeframe hopefully) you must use the second page to <i> calculate the expenses and expected profits/revenue</i> over the next few years to show how this project will affect finances in the coming years for the business. <br><br> Finally, using a document form, <u>create a rational page</u> which describes why you assigned specific employees to certain tasks and if you required more time than the given timeframe or if you went overbudget, <b>Ensure that you give reasoning to your answers.</b></p>
+  <p>ESP <mark>task 1</mark> is the <u>planning stage of the ESP</u>, in which you are given a team and a timeframe to complete a project of different tasks. Afterwards you are required to calculate the revenue/costs and profits of the project and then work on a rational on what you did.<br> <br>
+ESP <mark>task 2</mark> is the <u>debugging and code fixing section of the test</u>, in which you are given a section of code from your project in task 1 and you must <b>fix and improve the code</b> overall while documenting all changes and explaining them.
+    
 <hr>
-<p> </p>
+<p> ESP <mark>task 3</mark> is the <u> pseudocode or flowchart planning</u> for a section of code. In this you are given a worded plan and you must turn that into a flowchart to <I>visualise how the code will work when implemented.</i><br><br>
+ESP <mark>task 4</mark> is the <u>coding section</u> of this project, during which you are given a section of code and told to add on specific 
+
+</p>
   
 
   
