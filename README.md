@@ -52,9 +52,8 @@ body {
 
 <div class="sidenav">
   <a href="https://shockingparty2.github.io">Main Page</a>
-  <a href="https://shockingparty2.github.io/page2">ESP task 1</a>
-  <a href="https://shockingparty2.github.io/page3">ESP task 2</a>
-  <a href="https://shockingparty2.github.io/page4">ESP task 3</a> 
+  <a href="https://shockingparty2.github.io/page2">ESP task information</a>
+  <a href="https://shockingparty2.github.io/page3">ESP task tips</a>> 
 </div>
 
 <div class="content">
