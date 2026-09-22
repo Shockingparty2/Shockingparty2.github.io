@@ -70,7 +70,8 @@ ESP <mark>task 2</mark> is the <u>debugging and code fixing section of the test<
     
 <hr>
 <p> ESP <mark>task 3</mark> is the <u> pseudocode or flowchart planning</u> for a section of code. In this you are given a worded plan and you must turn that into a flowchart to <I>visualise how the code will work when implemented.</i><br><br>
-ESP <mark>task 4</mark> is the <u>coding section</u> of this project, during which you are given a section of code and told to add on specific 
+ESP <mark>task 4</mark> is the <u>coding section</u> of this project, during which you are given a section of code and told to <b>add specific functions into the code</b>. <br>
+in the second section of task 4, you are required to make a <i>rational</i> explaining your code and how you coded it, <u>giving reasons as to why you chose to do it a specific way</u>, <b>but more importantly what you would have done differently after reviewing your work.</b>
 
 </p>
   
