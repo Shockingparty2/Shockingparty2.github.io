@@ -46,6 +46,12 @@ body {
   margin-left: 200px;
   padding-left: 20px;
 }
+
+/* add logo to top of page*/
+.logo {
+  width: 400px;
+  height: auto;
+}
 </style>
 </head>
 <body>
