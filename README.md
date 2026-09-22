@@ -1,5 +1,5 @@
 <html lang="en">
-<head>
+<head></head>
 <title>CSS Template</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -115,7 +115,7 @@ body {
 
   <h2></h2>
 
-  <p>
+  <html><p>
     <b><mark>WELCOME to this first page of the ESP information general stuffs okay?</mark></b>
     <br><br>
     This website will give you a general idea on the T level software development and the ESP assessment involved; with some tips which helped me to get through the year myself :)
@@ -123,7 +123,7 @@ body {
     <br> 
     T Levels are a 2-year qualification that you can do after GCSEs as an alternative to A levels, other post-16 courses or an apprenticeship. They have been designed with leading businesses and employers to give you the knowledge and skills you need. You’ll spend 80% of your time in the classroom and 20% on a 45-day placement with an employer to give you the skills and knowledge companies look for.
     <br><br>
-<mark><b>Students will develop an understanding of:</mark> </b> <br>
+<b><mark>Students will develop an understanding of:</mark></b><br>
   How digital technologies impact business<br>
   The ethical and moral implications of digital technology<br>
   Using data in software design <br><br>
@@ -135,7 +135,7 @@ body {
   Digital tools for project management and collaboration<br>
   and many more general purpose and useful skills.
   </p>
-
+  </html>
   <!-- CONTACT FORM -->
 <div class="contact">
 
