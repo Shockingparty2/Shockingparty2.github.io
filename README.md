@@ -123,7 +123,7 @@ body {
     <br> 
     T Levels are a 2-year qualification that you can do after GCSEs as an alternative to A levels, other post-16 courses or an apprenticeship. They have been designed with leading businesses and employers to give you the knowledge and skills you need. You’ll spend 80% of your time in the classroom and 20% on a 45-day placement with an employer to give you the skills and knowledge companies look for.
     <br><br>
-<b>tudents will develop an understanding of:<br>
+<mark><b>Students will develop an understanding of:</mark> </b> <br>
   How digital technologies impact business<br>
   The ethical and moral implications of digital technology<br>
   Using data in software design <br><br>
