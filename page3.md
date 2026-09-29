@@ -71,19 +71,19 @@ body {
   
   <h2>content on ESP tips</h2>
 <p>
-  this page will give you tips which I personally came up with for the ESP task 2, thank me now.
+  This page will give you tips which I personally came up with for the ESP task 2, thank me now.
   <hr>
-I: <u>utilise</u> AI in order to create similar practise papers and mark your work on them in order to revise; <small>do not use AI in the ESP test itself.</small>  
+I: <u>Utilise</u> AI in order to create similar practise papers and mark your work on them in order to revise; <small>do not use AI in the ESP test itself.</small>  
 <br><br>
-II: on task 1a, ensure that you <b>don't use a staff member who is 'expected absent'</b> of any sort during their time off; read full booklet before assigning tasks to prevent missing key information
+II: On task 1a, ensure that you <b>don't use a staff member who is 'expected absent'</b> of any sort during their time off; read full booklet before assigning tasks to prevent missing key information
 <br><br>
-III: for task 2, fix main errors and bugs then move onto improving the code performance without changing the main functions <small>if you have time remaining</small>
+III: For task 2, fix main errors and bugs then move onto improving the code performance without changing the main functions <small>if you have time remaining</small>
 <br><br>
 IV: <b>Don't waste time if you get stuck, </b> move onto the next task if you cannot figure out the issue after <u>5-10mins</u>, return back to this problem if you have time remaining at the end
 <br><br>
 
 
-V: <mark>don't stress</mark>, resits are available next year which most people choose to do anyways ¯\_(ツ)_/¯
+V: <mark>Don't stress</mark>, resits are available next year which most people choose to do anyways ¯\_(ツ)_/¯
   <br><br>
   terminology: ESP stands for Employer Set Project <small>not set by a genuine employer,circumstances usually chosen from a real company and real scenario howerver.</small>
 </p>  
