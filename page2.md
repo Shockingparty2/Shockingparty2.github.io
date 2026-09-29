@@ -74,7 +74,7 @@ body {
     <u>The ESP task involves <high>5</high> sections</u></p>
   <p>Here are the different sections and how they work</p>
 <hr>
-  <p>ESP <mark>task 1</mark> is the <u>planning stage of the ESP</u>, in which you are given a team and a timeframe to complete a project of different tasks. Afterwards you are required to calculate the revenue/costs and profits of the project and then work on a rational on what you did.<br> <br>
+  <p>ESP <mark>task 1</mark> is the <u>planning stage of the ESP</u>, in which you are given a team and a timeframe to complete a project of different tasks. Afterwards you are required to calculate the revenue/costs and profits of the project and then work on a <b>rational on what you did</b>. <br> <br>
 ESP <mark>task 2</mark> is the <u>debugging and code fixing section of the test</u>, in which you are given a section of code from your project in task 1 and you must <b>fix and improve the code</b> overall while documenting all changes and explaining them.
     
 <hr>
